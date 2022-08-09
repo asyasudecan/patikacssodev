@@ -1,0 +1,47 @@
+.ust{
+    background:#94B49F ;
+    width: 900px;
+    height: 200px;
+   
+
+}
+
+
+.sol{
+    background:#94B49F;
+    width: 200px;
+    height: 500px;
+    float: left;
+    
+}
+
+
+.orta{
+    background:#94B49F ;
+    width: 700px;
+    height: 500px;
+    float: left;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+   
+}
+
+.alt{
+    background:#9C9EFE ;
+    width: 900px;
+    height: 200px;
+    clear: both;
+}
+
+.ana{
+    margin: 100px;;
+    color: #FFF9CA;
+}
+h1,h2,h3{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    color: rgb(0, 0, 12);
+    
+}
